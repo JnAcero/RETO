@@ -50,7 +50,7 @@ $dataReg = $camper->getRegiones();
                 </div>
                 <div class=" row  p-1">
                     <div class=" mb-2 col-sm-12">
-                        <select class="form-select" aria-label="Default select example" id="ciudad" name="ciudad" required>
+                        <select class="form-select" aria-label="Default select example" id="ciudad" name="region" required>
                             <option selected>Ciudad</option>
                             <?php
                             foreach ($dataReg as $key => $value) { ?>
