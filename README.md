@@ -1,6 +1,9 @@
 # RETO
 CRUD PHP
 
+Nombre: Juan Andres Acero Burgos
+APOLO
+
 #BASE DE DATOS:
 
 CREATE DATABASE campuslands;
